@@ -1,7 +1,8 @@
 # Weath-app
   Simple weather app
   
-#jQuery 
+# JQuery 
+  <br>
   Note: Top of the Simpleweatherjs script and API
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> 
